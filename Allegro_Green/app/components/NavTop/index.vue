@@ -5,9 +5,10 @@
         <li><NuxtLink to="/product">Dom i ogród</NuxtLink></li>
         <li><NuxtLink to="/contact">Uroda</NuxtLink></li>
         <li><NuxtLink to="/services">Moda</NuxtLink></li>
+        <li><NuxtLink to="/services">Kuchnia</NuxtLink></li>
         <li><NuxtLink to="/about">Elektronika</NuxtLink></li>
-        <li><NuxtLink to="/blog">Sport i rekreacja</NuxtLink></li>
-
+        <li><NuxtLink to="/blog">Dziecko</NuxtLink></li>
+        <li><NuxtLink to="/faq">Sport</NuxtLink></li>
     </ul>
   </div>
 </template>
