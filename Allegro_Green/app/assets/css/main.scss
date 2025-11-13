@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+  background-color: #ffffff;
+  color: #2d5a4d;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+button {
+  font-family: inherit;
+}
+
+input,
+textarea {
+  font-family: inherit;
+}
+
+// Kolory główne
+$primary-green: #52b788;
+$dark-green: #2d5a4d;
+$light-green: #d1e7e0;
+$accent-green: #95b8a8;
+$background-light: #f0f9f6;
+
+// Zmienne
+$max-width: 1200px;
+$transition: all 0.3s ease;
